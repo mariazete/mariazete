@@ -9,4 +9,4 @@
 -com o alura, aprendo a como compartilhar meus projetos com amigos e professores.
 
 ## você pode entrar em contato comigo:
-0001109451398sp@al,educacao.sp.gov.br
+00001109451398sp@al.educacao.sp.gov.br
